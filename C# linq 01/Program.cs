@@ -71,7 +71,7 @@ namespace C__linq_01.Models
             #endregion
 
             #region 3 
-
+             
             // Sort all products by UnitPrice(ascending).Print each product's name and price. 
 
             // Query Syntax :
