@@ -154,7 +154,7 @@ namespace C__linq_01.Models
             #endregion
 
             #region 6 
-
+             
             //6. Create a new anonymous type with three properties:
             //● Name → the product name
             //● Price → the unit price StockStatus →
