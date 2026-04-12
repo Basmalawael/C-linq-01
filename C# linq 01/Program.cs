@@ -99,7 +99,7 @@ namespace C__linq_01.Models
             #endregion
 
             #region 4
-
+             
             // Get all products where UnitPrice is between 10 and 30
             /*
             var result = from p in Source.ProductList
