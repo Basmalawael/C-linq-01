@@ -244,7 +244,6 @@ namespace C__linq_01.Models
 
             #region 9
 
-
             //. Get all products from the "Beverages" category, sorted by
             // UnitsInStock descending. Print name and stock. 
 
