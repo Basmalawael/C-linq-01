@@ -148,7 +148,7 @@ namespace C__linq_01.Models
             foreach (var item in result1)
             {
                 Console.WriteLine(item);
-            }
+            } 
          */
 
             #endregion
