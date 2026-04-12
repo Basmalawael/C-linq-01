@@ -43,7 +43,7 @@ namespace C__linq_01.Models
             #endregion
 
             #region 2
-
+             
             // Get a list of only the product names from ProductList. Print each name.
 
             //Query Syntax :
