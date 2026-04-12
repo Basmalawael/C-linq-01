@@ -300,6 +300,7 @@ namespace C__linq_01.Models
             #endregion
 
             #region 11
+
             //. Show position number alongside ProductName
             /*
             var res = Source.ProductList .Select((p , index ) => $"{index +1 } . {p.ProductName}");
