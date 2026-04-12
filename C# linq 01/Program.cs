@@ -196,7 +196,7 @@ namespace C__linq_01.Models
             #endregion
 
             #region 7 
-            /*
+            /* 
            // Print each product's name along with its position (1-based) 
            // in the list. Expected format: 1. Chai, 2. Chang, etc. 
             
