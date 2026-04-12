@@ -213,7 +213,7 @@ namespace C__linq_01.Models
 
             #region 8
 
-            //  * 8. Sort ProductList by Category ascending,
+            //  * Sort ProductList by Category ascending,
             //  * then within each category, sort by UnitPrice descending. 
 
 
