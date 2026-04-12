@@ -279,6 +279,7 @@ namespace C__linq_01.Models
             #endregion
 
             #region 10
+
             //Using QUERY SYNTAX with a compound from clause, list 
             // all orders placed in 1997 or later showing CustomerID and OrderDate.
 
