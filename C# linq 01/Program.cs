@@ -332,7 +332,7 @@ namespace C__linq_01.Models
             #endregion
 
             #region 13
-            /*
+            /* 
             string[] digits = { "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
 
             var res = digits.Where(d => d.Length > 1 && d[1] == 'i')
